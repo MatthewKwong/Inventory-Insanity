@@ -79,7 +79,7 @@ a:visited{
 
 .left{
   position:absolute;
-  background-image:url("http://i.imgur.com/eFRDGLn.jpg");
+  background-color: black;
   overflow:hidden;
   -webkit-animation: left 10s ;
   height:100%;
@@ -93,7 +93,7 @@ a:visited{
 
 .right{
   position:absolute;
-  background-image:url("http://i.imgur.com/eFRDGLn.jpg");
+  background-color:black;
   overflow:hidden;
   -webkit-animation: right 10s ;
   height:100%;
